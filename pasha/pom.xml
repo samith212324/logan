@@ -3,7 +3,7 @@
 
   <groupId>in.com.pasha</groupId>
   <artifactId>pasha</artifactId>
-  <version>3.0</version>
+  <version>3.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>pasha</name>
@@ -13,7 +13,7 @@
 	<connection>scm:git:git://github.com/samith212324/logan.git</connection>
 	<developerConnection>scm:git:git@github.com:samith212324/logan.git</developerConnection>
 	
-     <tag>pasha-3.0</tag>
+     <tag>HEAD</tag>
   </scm>
 
 
